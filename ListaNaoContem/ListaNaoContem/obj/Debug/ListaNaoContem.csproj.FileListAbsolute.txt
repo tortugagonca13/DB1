@@ -1,0 +1,6 @@
+C:\Users\Augusto\Desktop\Projeto\ListaNaoContem\ListaNaoContem\bin\Debug\ListaNaoContem.exe.config
+C:\Users\Augusto\Desktop\Projeto\ListaNaoContem\ListaNaoContem\bin\Debug\ListaNaoContem.exe
+C:\Users\Augusto\Desktop\Projeto\ListaNaoContem\ListaNaoContem\bin\Debug\ListaNaoContem.pdb
+C:\Users\Augusto\Desktop\Projeto\ListaNaoContem\ListaNaoContem\obj\Debug\ListaNaoContem.csprojResolveAssemblyReference.cache
+C:\Users\Augusto\Desktop\Projeto\ListaNaoContem\ListaNaoContem\obj\Debug\ListaNaoContem.exe
+C:\Users\Augusto\Desktop\Projeto\ListaNaoContem\ListaNaoContem\obj\Debug\ListaNaoContem.pdb

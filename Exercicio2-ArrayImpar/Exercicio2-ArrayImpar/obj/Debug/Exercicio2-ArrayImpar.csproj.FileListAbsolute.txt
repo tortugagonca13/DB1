@@ -1,0 +1,6 @@
+C:\Users\Augusto\Desktop\Projeto\Exercicio2-ArrayImpar\Exercicio2-ArrayImpar\bin\Debug\Exercicio2-ArrayImpar.exe.config
+C:\Users\Augusto\Desktop\Projeto\Exercicio2-ArrayImpar\Exercicio2-ArrayImpar\obj\Debug\Exercicio2-ArrayImpar.csprojResolveAssemblyReference.cache
+C:\Users\Augusto\Desktop\Projeto\Exercicio2-ArrayImpar\Exercicio2-ArrayImpar\bin\Debug\Exercicio2-ArrayImpar.exe
+C:\Users\Augusto\Desktop\Projeto\Exercicio2-ArrayImpar\Exercicio2-ArrayImpar\bin\Debug\Exercicio2-ArrayImpar.pdb
+C:\Users\Augusto\Desktop\Projeto\Exercicio2-ArrayImpar\Exercicio2-ArrayImpar\obj\Debug\Exercicio2-ArrayImpar.exe
+C:\Users\Augusto\Desktop\Projeto\Exercicio2-ArrayImpar\Exercicio2-ArrayImpar\obj\Debug\Exercicio2-ArrayImpar.pdb

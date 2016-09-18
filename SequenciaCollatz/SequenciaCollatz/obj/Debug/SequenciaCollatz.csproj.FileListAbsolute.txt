@@ -1,0 +1,6 @@
+C:\Users\Augusto\Desktop\Projeto\SequenciaCollatz\SequenciaCollatz\bin\Debug\SequenciaCollatz.exe.config
+C:\Users\Augusto\Desktop\Projeto\SequenciaCollatz\SequenciaCollatz\obj\Debug\SequenciaCollatz.csprojResolveAssemblyReference.cache
+C:\Users\Augusto\Desktop\Projeto\SequenciaCollatz\SequenciaCollatz\bin\Debug\SequenciaCollatz.exe
+C:\Users\Augusto\Desktop\Projeto\SequenciaCollatz\SequenciaCollatz\bin\Debug\SequenciaCollatz.pdb
+C:\Users\Augusto\Desktop\Projeto\SequenciaCollatz\SequenciaCollatz\obj\Debug\SequenciaCollatz.exe
+C:\Users\Augusto\Desktop\Projeto\SequenciaCollatz\SequenciaCollatz\obj\Debug\SequenciaCollatz.pdb
