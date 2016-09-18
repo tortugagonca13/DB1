@@ -1,0 +1,3 @@
+C:\Drive\DB1\Avaliação Técnica\Solution\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\bin\Debug\DB1.AvaliacaoTecnica.Console.exe.config
+C:\Users\Augusto\Desktop\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\bin\Debug\DB1.AvaliacaoTecnica.Console.exe.config
+C:\Users\Augusto\Desktop\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\obj\Debug\DB1.AvaliacaoTecnica.Console.csprojResolveAssemblyReference.cache
