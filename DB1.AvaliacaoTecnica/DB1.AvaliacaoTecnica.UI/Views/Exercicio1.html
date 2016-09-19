@@ -1,0 +1,20 @@
+﻿<div ng-controller="ExercicioCtrl">
+    <p>{{vm.message}}</p>
+    Recebendo usuarios</br>
+    <input type="text" ng-model="vm.filtroNome" placeholder="Digite o nome para filtro:" />
+    <div ng-repeat="n in vm.Usuario | filter: vm.filtroNome">
+        {{n.Nome}}
+    </div>
+
+    <h1 class="text-left">
+        <div ng-repeat="users in usuariosArray">
+            <h3>Id - {{users.usuariosId}}</h3>
+            <br />
+            <h3> Login - {{users.usuariosLogin}}</h3>
+            <br />
+            <button ng-click="getUser(users.usuariosLogin)"> Detalhes</button>
+            <button ng-click="getRepo(users.usuariosLogin)"> Repositorio </button>
+
+        </div>
+    </h1>
+</div>
